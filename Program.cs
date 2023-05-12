@@ -49,6 +49,8 @@ namespace Struct{
               produto1.ValorDesconto = "100";
               produto1.PorcentagemCupom = "10%";
               produto1.Quantidade = "5";
+
+              Console.WriteLine(produto1.imprimir());
             }
           }
         }
