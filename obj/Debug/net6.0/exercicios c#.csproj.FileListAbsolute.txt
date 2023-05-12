@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\exercicios c#\bin\Debug\net6.0\exercicios c#.exe
+C:\Users\Aluno\Desktop\exercicios c#\bin\Debug\net6.0\exercicios c#.deps.json
+C:\Users\Aluno\Desktop\exercicios c#\bin\Debug\net6.0\exercicios c#.runtimeconfig.json
+C:\Users\Aluno\Desktop\exercicios c#\bin\Debug\net6.0\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios c#\bin\Debug\net6.0\exercicios c#.pdb
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\refint\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.pdb
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\exercicios c#.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exercicios c#\obj\Debug\net6.0\ref\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios\bin\Debug\net6.0\exercicios c#.exe
+C:\Users\Aluno\Desktop\exercicios\bin\Debug\net6.0\exercicios c#.deps.json
+C:\Users\Aluno\Desktop\exercicios\bin\Debug\net6.0\exercicios c#.runtimeconfig.json
+C:\Users\Aluno\Desktop\exercicios\bin\Debug\net6.0\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios\bin\Debug\net6.0\exercicios c#.pdb
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\refint\exercicios c#.dll
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.pdb
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\exercicios c#.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exercicios\obj\Debug\net6.0\ref\exercicios c#.dll
