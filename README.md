@@ -1,0 +1,2 @@
+# Struct
+exercicios c# faculdade
